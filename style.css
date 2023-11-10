@@ -1,0 +1,42 @@
+body {
+    background-color: tan;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+nav {
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+
+}
+
+#memeimage {
+    margin-right: 200px;
+    text-align: center;
+}
+
+
+header {
+    text-align: center;
+
+
+}
+
+.paraText {
+    color: rebeccapurple;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+

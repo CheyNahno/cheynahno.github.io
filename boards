@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--cheyennepointer thought it would 
+        needed to be placed here. email  chey.knox@yahoo.com
+    this is my assignment for week 1-1 the foundation-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pointer palaces board page </title>
+</head>
+
+<body>
+    <script>//this is my javascript comment that is brought on by being between the scruipt and adding slashes </script>
+    <h1>
+        This is the page to list our boards items for graduation
+    </h1>
+    <h2>this is where I will display my best work /</h2>
+    <!--cheyenne pointers work cheyennepointer@yahoo.com-->
+    <h6>Here are the six objectives for my graduation</h6>
+    <!--this is the 6 objectives for game Art and Animation at UAT-->
+    <h3>1. Demonstrate and communicate aesthetic skills and choices based on traditional art theory, current game
+        development
+        practices and next-generation research. <br>
+        Artifact 1<br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about my first artifact <br>
+        <!--this was drom my animation class and this is how you add a video link-->
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--this is mygithub account and a link to it was the same -->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <img src="rough sketches.png"><br>
+        <!--this is how i saved my image and is also from my animation class-->
+        an example of my work <br>
+        <br>
+        <!--the br allows there to be some space betweem my artifacts -->
+        <Br>
+        <!--there is two here to add even more space-->
+        <img src="Rope.gif"><br>
+        Artifact 2 <br>
+        <!--I dont have a lot of work being only in my second semester but im excited to program-->
+        This will talk about second artifact <br>
+        <!--this is the first and only youtube video i ever posted-->
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--the href sign is a really cool program code to add to it-->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--adding an image is a lot easier than i thought it would be once its in the right place-->
+        <img src="rough sketches.png"><br>
+        <!--I cant wait to finally fill this page up with my work when i graduate-->
+        an example of my work <br>
+        <br>
+        <!--comments are a really cool to that infuses the page with your personality and direction-->
+        <Br>
+        <!--comments also remind me of the scientific method, in thoery anyone should be able to pick it up-->
+        <img src="Rope.gif"><br>
+        <!--i like the rope image i made last month-->
+        2. Conceptualize and generate pre-production art assets through pre-visualization and prototypes usable for
+        multiple game
+        platforms.<br>
+        <!--art assests are so important and im trying to think about ones i will make eventually-->
+        Artifact 1<br>
+        <!--eventually i want to add enviromental assests-->
+        This will talk about my first artifact <br>
+        <!--I would add a link to my construct account to add before i grad-->
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--I cant wait to mke more webpages -->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--I was scared to take this class but it is rather straightforward-->
+        <img src="rough sketches.png"><br>
+        <!--i will always remember how to add an image with img src-->
+        an example of my work <br>
+        <br>
+        <!--the br is also a very nice tool when considering spcing and style-->
+        <Br>
+        <img src="Rope.gif"><br>
+        <!--also as a way to bring focus to the page or away from other parts-->
+        Artifact 2 <br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about second artifact <br>
+        <!--i would also like to add in the future character assests-->
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!-- there are so many things i want to work on -->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--href proncatation sounds totally different than i thought it would be -->
+        <img src="rough sketches.png"><br>
+        an example of my work <br>
+        <br>
+        <!--br is also adding an important part of placment-->
+        <Br>
+        <img src="Rope.gif"><br>
+        <!--this also adds some charcter-->
+        3. Demonstrate a cross-section of baseline skills needed to create 2D and 3D art, textures and animation assets
+        utilizing
+        industry-standard software tools.<br>
+        <!--artifacts-->
+        Artifact 1<br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about my first artifact <br>
+        <!--the different sections and ability to move things around really makes it your own-->
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--i thought it would be harder to add links -->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--instead of it just being a simple command-->
+        <img src="rough sketches.png"><br>
+        <!-- I want to add a lot of my art-->
+        an example of my work <br>
+        <br>
+        <!--i can use coding to show off my art and make my own page -->
+        <Br>
+        <img src="Rope.gif"><br>
+        Artifact 2 <br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about second artifact <br>
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--this will show my future work-->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--this is where i will bring in -->
+        <img src="rough sketches.png"><br>
+        <!--this will show an explanatrion of my future work -->
+        an example of my work <br>
+        <!--spacing is so imp-->
+        <br>
+        <Br>
+        <!--here is where i will put in the different sections-->
+        <img src="Rope.gif"><br>
+        <!--special image added -->
+
+        4. Demonstrate the ability to build industry-quality game assets specializing in specific 2D and/or 3D art
+        and/or animations
+        utilizing industry-standard software tools, pipelines and platform guidelines.<br>
+        <!--i get to use these codes to add in specific notes for anyone else after me working on this-->
+        Artifact 1<br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about my first artifact <br>
+        <!--i will explain what went into the project-->
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--here i will show a timeline of events in the making -->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--add average hours everything took me to work on it. -->
+        <img src="rough sketches.png"><br>
+        an example of my work <br>
+        <!--add spacing-->
+        <br>
+        <!--added spacing it-->
+        <Br>
+        <!--added space her to isolate -->
+        <img src="Rope.gif"><br>
+        <!--spacing here -->
+        Artifact 2 <br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about second artifact <br>
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--explain the youtube video-->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+
+        <!--need to add explanation of image-->
+        <img src="rough sketches.png"><br>
+        an example of my work <br>
+        <!--show all the work that went intothe porject including the type -->
+        <br>
+        <!--spacing is used to isolate the image from the others -->
+        <Br>
+        <!--add images and explain them -->
+        <img src="Rope.gif"><br>
+
+        5. Adapt, export, integrate, and optimize game art and animation assets (including shaders and lighting) into 2D
+        and 3D
+        game projects working within a production pipeline and the confines of a projects game engine, tools and other
+        constraints.<br>
+        <!--explain my artifact-->
+        Artifact 1<br>
+
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about my first artifact <br>
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--add another explanation of my work -->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--adding in an explanation here later-->
+        <img src="rough sketches.png"><br>
+        an example of my work <br>
+        <!--explain my work here and why i did it -->
+        <br>
+        <!--add another space-->
+        <Br>
+        <!--this is where a new section is added-->
+        <img src="Rope.gif"><br>
+        <!--where you put things when programming is imp-->
+        Artifact 2 <br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about second artifact <br>
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--add in website link-->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--add in image here-->
+        <img src="rough sketches.png"><br>
+        an example of my work <br>
+        <!--this is where i could add different font height -->
+        <br>
+        <!--space-->
+        <Br>
+        <!--spacing is needed-->
+        <img src="Rope.gif"><br>
+        <!--look at me coding and adding notes-->
+
+        6. Establish collaboration, mentorship and professional leadership skills by working with other disciplines to
+        deliver highly
+        polished and completed projects. <br>
+        Artifact 1<br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about my first artifact <br>
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--this is where i can add in linke for other places -->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+        <!--this is where i will add in placements-->
+        <img src="rough sketches.png"><br>
+        an example of my work <br>
+        <br>
+        <!--there is another section-->
+        <Br>
+        <!--there is another section-->
+        <img src="Rope.gif"><br>
+        Artifact 2 <br>
+        <!--I dont have a lot of work being only in my second semester-->
+        This will talk about second artifact <br>
+        <a href="https://youtu.be/IqPRh0YLWsA?si=ex3e8MwaIAN3fdrs">link to my youtube video</a><br>
+        <!--this is where i will show the link to my githib and other accounts-->
+        <a href="https://github.com/CheyNahno?tab=repositories"> link to my GITHUB</a><br>
+
+        <!--this is where i will show the images ai want -->
+        <img src="rough sketches.png"><br>
+        <!--i can explain and show what i need -->
+        an example of my work <br>
+
+        <!--another space is added-->
+        <br>
+        <!--space is added-->
+        <Br>
+        <!--image is added-->
+        <img src="Rope.gif"><br>
+        <!--h3  indicates font size -->
+    </h3>
+    <!--this shows us the next or different paragraphs-->
+</body>
+<!--this is where i would put other pieces or sections of my art -->
+
+</html>

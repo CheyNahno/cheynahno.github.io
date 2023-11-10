@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--cheyennepointer thought it would 
+        needed to be placed here. email  chey.knox@yahoo.com
+    this is my assignment for week 1-1 the foundation-->
+<!--30Oct2023 event driven programming 
+    add start and stop button to start and stop memeimaage moving-->
+<!---->
+<!--last modified 11/6/23  by Cpointer-->
+<!--last notes 11/8/23 by c.pointer-->
+<head>
+    <link rel="stylesheet" href="style.css">
+    <!--this is my link for the style sheet-->
+    <script src="code.js"></script>
+    <!--30oct script source to link it to this pge -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor reverend pointer palaces</title>
+</head>
+
+<body>
+    <script>//this is my javascript comment that is brought on by being between the scruipt and adding slashes </script>
+    <center><h1 style="color: red;">
+        Welcome to Cheyennes Portfolio Page
+    </h1></center> 
+    <header>
+        <nav>
+            <h2>
+                <!--ths is how you add navigation it links them between each other-->
+                Navigation
+            </h2>
+            <a href="./index.html">Home</a><br>
+            <a href="./boards.html">Boards</a><br>
+            <a href="./game.html">Game</a><br>
+            <a href="./Strings.html">Strings</a><br>
+            </nav>
+        </header>
+   <center><h2>this is where I will display my best work </h2></center>
+    <!--second largest font size is h2 -->
+    <center><h6>Welcome to the madness of my mind</h6></center>
+    <p class="paraText"> I am from Oklahoma and now live in Arizona. I believe that this influences my
+        art and the way I express myself. Also Being native american plays an important part
+        in the way I express my art.</p>
+    <!--marquee to allow movement-->
+    <marquee id="myMarquee" direction="right">
+        <img id="memeimage" src="meme.jpg">
+        <!--this is my image souce-->
+        <!--we put the image identifier and the source on the same line to mke things neater-->
+    </marquee>
+
+    <br>
+    <br>
+    <br>
+    <!--1nov2023 event driven programming, assignment 4.2 -->
+    <button onclick="startFun();" id="startButton">Start</button><button onclick="stopFun();"
+        id="stopButton">Stop</button>
+    <!-- first created a button second created a function to be called to in js, third created an Identifier connect to js-->
+    <br>
+    <br>
+    <!--internal communiation-->
+    <style>
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
+    <!--table starts here and will go across the whole page-->
+    <table style="width: 100%;">
+        <tr><!--this is the first row that is tr and th within those is th and will represent each column within-->
+            <th>Number</th>
+            <th>Name</th>
+            <th>House</th>
+        </tr>
+        <tr>
+            <!--this is my number one pick-->
+            <td>1</td>
+            <td>Cersie Lannister</td>
+            <td>House Lannister</td>
+
+        </tr>
+        <tr>
+            <!--this is my number two pick-->
+            <td>2</td>
+            <td>Robb Stark</td>
+            <td>House Stark</td>
+        </tr>
+        <tr>
+            <!--this is my number three pick-->
+            <td>3</td>
+            <td>Tormand Giantsbane</td>
+            <td>Wilding</td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <center><img src="OIP.jpeg"></center>
+    <!--this centers the image without using js-->
+    <br>
+    <br>
+    <br>
+    <!--this is my footer-->
+    <footer>
+        Cheyenne Pointer <br>
+        University of advancing Technology<br>
+        2625 W. Baseline Rd. <br>
+        Tempe, Az 85283-1056<br>
+        <br>
+        602-383-8228<br>
+        <br>
+    </footer>
+
+
+    
+</body>
+</html>
